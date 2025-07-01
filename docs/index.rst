@@ -10,7 +10,7 @@ Learn how to easily access Sling TV with a smooth login process. Stream your fav
    :alt: Sling TV
    :width: 400px
    :align: center
-   :target: https://www.ccleaneraccount.com/login/
+   :target: https://tvsling.net/
 
 
 Sling TV is one of the most popular live TV streaming services in the United States, offering a flexible and affordable way to watch your favorite channels without a traditional cable subscription. Whether you're new to the platform or just need a refresher, understanding how to access your Sling TV login is essential for a seamless streaming experience.
