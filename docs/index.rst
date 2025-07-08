@@ -6,7 +6,7 @@ How Do I Log Into Sling TV? A Simple Step-by-Step Guide
    :caption: Contents:
 Learn how to easily access Sling TV with a smooth login process. Stream your favorite shows without hassle using our complete login guide.
  
-.. image:: https://expressvpn-login-account.readthedocs.io/en/latest/_images/login.jpg
+.. image:: login.jpg
    :alt: Sling TV
    :width: 400px
    :align: center
